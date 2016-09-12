@@ -30,7 +30,7 @@ font-family: 'Work Sans', sans-serif;
     background-size: cover;
     -o-background-size: cover;
     background-color: #0B9BD4;
-    background-blend-mode: color-burn;
+    background-blend-mode: exclusion;;
 }
 
 /* Customize the text color and shadow color and to optimize text legibility. */
